@@ -1,0 +1,58 @@
+.card{
+    background-color:#6883bc;
+    color:white;
+    display: flex;
+    
+    height: 300px;
+    border-radius: 8px;
+    /* padding-top: 20px; */
+}
+
+.card2{
+    background-color: #6883bc;
+    color:white;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center;
+    align-items: center; */
+    height: 300px;
+    border-radius: 8px;
+    /* padding-top: 20px; */
+}
+
+.card3{
+    background-color: #6883bc;
+    color:white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 150px;
+    border-radius: 8px;
+    /* padding-top: 20px; */
+}
+
+.card4{
+    background-color: #6883bc;
+    color:white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 150px;
+    border-radius: 8px;
+    /* padding-top: 20px; */
+}
+
+
+li{
+    font-size: 24px;
+    
+}
+.report{
+    text-align: center;
+}
+.dash-container{
+    min-height: 100vh;
+    height: 100%;
+}

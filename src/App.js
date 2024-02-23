@@ -54,6 +54,7 @@ function App() {
           element={<Reports id={userId} />}
         ></Route>
       </Routes>
+      <p>tax</p>
     </BrowserRouter>
   );
 }
